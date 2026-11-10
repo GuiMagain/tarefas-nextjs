@@ -1,0 +1,17 @@
+# dependências
+node_modules/
+
+# build do Next.js
+.next/
+out/
+
+# cobertura de testes
+coverage/
+
+# ambiente
+.env*.local
+
+# sistema
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
